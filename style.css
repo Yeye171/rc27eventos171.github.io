@@ -329,6 +329,8 @@ font-size:2.5rem;
 h2{
 font-size:2rem;
 }
-
+body{
+border:10px solid red !important;
+}
 }
 
