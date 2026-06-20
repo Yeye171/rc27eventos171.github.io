@@ -233,45 +233,21 @@ background-position:100% 50%;
 background-position:0% 50%;
 }
 
-}
 .whatsapp{
-
 position:fixed;
-
 right:25px;
 bottom:25px;
-
 width:65px;
 height:65px;
-
-border-radius:50%;
-
 background:#25D366;
-
+border-radius:50%;
 display:flex;
-
 align-items:center;
 justify-content:center;
-
 font-size:30px;
-
 text-decoration:none;
-
-animation:pulse 2s infinite;
-
+color:white;
+z-index:9999;
+box-shadow:0 5px 15px rgba(0,0,0,.3);
 }
-@keyframes pulse{
-
-0%{
-transform:scale(1);
-}
-
-50%{
-transform:scale(1.15);
-}
-
-100%{
-transform:scale(1);
-}
-
 }
