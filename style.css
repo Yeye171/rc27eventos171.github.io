@@ -95,13 +95,13 @@ animation:fadeUp 1.5s ease;
 }
 
 .hero h1{
-font-size:4.5rem;
-font-weight:800;
+font-family:'Playfair Display', serif;
+font-size:5rem;
+font-weight:700;
 color:white;
 text-shadow:0 4px 20px rgba(0,0,0,.4);
-margin-bottom:20px;
+letter-spacing:1px;
 }
-
 .hero p{
 font-size:1.3rem;
 color:white;
